@@ -8,7 +8,7 @@
 #include <GL/glut.h>
 
 
-using namespace std;	
+using namespace std;	//para utilizar los cin y los cout 
 
 float red = 1.0, green = 0.0, blue = 0.0;
 int tmpx, tmpy; // Almacena el primer punto
